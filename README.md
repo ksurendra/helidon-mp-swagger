@@ -1,6 +1,17 @@
-# Helidon MP With Swagger
+# Helidon MP With Swagger Example
 
 Sample Helidon MP project with Swagger / OpenAPI.
+
+Built a new project using Helidon MP 2.3.4 
+```xml
+mvn -U archetype:generate -DinteractiveMode=false \
+    -DarchetypeGroupId=io.helidon.archetypes \
+    -DarchetypeArtifactId=helidon-quickstart-mp \
+    -DarchetypeVersion=2.3.4 \
+    -DgroupId=io.helidon.examples \
+    -DartifactId=helidon-mp-swagger \
+    -Dpackage=io.helidon.examples.mp.swagger
+```
 
 ## Build and run
 

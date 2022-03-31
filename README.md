@@ -43,7 +43,7 @@ Sample Open API details are added to the class `src/main/java/io/helidon/example
 
 Use the below URL to see the API details, like in Swagger-UI:
 ```
-http://localhost:9393:8080/openapi-ui/index.html
+http://localhost:9393/openapi-ui/index.html
 ```
 ![helidon-mp-swagger-screenshot](https://user-images.githubusercontent.com/902972/137933830-05db4fca-b8ba-48ae-9104-c1b4c8795b5b.png)
 
